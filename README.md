@@ -1,6 +1,7 @@
+# Echo-mini-Cyberdeck-Retro-Futuristic
 <img width="640" height="640" alt="bootsq" src="https://github.com/user-attachments/assets/6e85478d-0fef-40ed-96b0-ac7f3f5e3159" />
 
-# Echo-mini-Cyberdeck-Retro-Futuristic
+
 A custom theme for the snowksy echo mini. A theme i wish that existed but never did so i made my own out of pure spite
 
 Fully customizable and photoshop file included.
