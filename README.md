@@ -154,3 +154,5 @@ Two alternate shutdown static images are included for users who prefer no QR scr
 - YouTube: https://www.youtube.com/@Paraphernalia25
 
 Enjoy.
+
+This work is licensed under Creative Commons Attribution 4.0 International CC BY-NC 4.0 (Non-Commercial).
