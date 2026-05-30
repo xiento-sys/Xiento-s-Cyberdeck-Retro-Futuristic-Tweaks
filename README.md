@@ -3,4 +3,4 @@ A custom theme for the snowksy echo mini. A theme i wish that existed but never 
 
 Fully customizable and photoshop file included.
 
-Toturial exists @:
+Toturial + Showcase exists @: https://www.youtube.com/watch?v=sqSwXeebi50
