@@ -1,24 +1,26 @@
 # Echo-mini-Cyberdeck-Retro-Futuristic
 <img width="640" height="640" alt="bootsq" src="https://github.com/user-attachments/assets/6e85478d-0fef-40ed-96b0-ac7f3f5e3159" />
 
-(not to chat gpt: move the text below on the right side of the gif above)
+
 A custom theme for the snowksy echo mini. A theme i wish that existed but never did so i made my own out of pure spite
 
 Fully customizable and photoshop file included.
 
-Toturial + Showcase exists @: https://www.youtube.com/watch?v=sqSwXeebi50
+Tutorial + Showcase exists @: https://www.youtube.com/watch?v=sqSwXeebi50
 
 
 
 <img width="960" height="510" alt="boot2" src="https://github.com/user-attachments/assets/329c9d09-1d45-498f-a0e3-80841eec6038" />
 
 
+### Main Menu (gif8)
 
-<img width="320" height="170" alt="gif8" src="https://github.com/user-attachments/assets/a25865bb-4001-4bc0-8672-2aeeefcfc743" />
+<img width="320" src="https://github.com/user-attachments/assets/a25865bb-4001-4bc0-8672-2aeeefcfc743">
 
 
+### Non-cover Art Player
 
-<img width="320" height="170" alt="gif3" src="https://github.com/user-attachments/assets/88863071-851f-43f5-84cb-fe29f98e09c8" />
+<img width="320" src="https://github.com/user-attachments/assets/88863071-851f-43f5-84cb-fe29f98e09c8">
 
 
 
