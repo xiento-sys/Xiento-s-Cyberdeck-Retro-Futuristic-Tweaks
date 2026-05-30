@@ -101,7 +101,7 @@ https://www.youtube.com/watch?v=sqSwXeebi50
 <tr>
 <td>
 
-### Discharge / Charge (In-use)
+### Discharge (In-use) / Charge (just Green)
 <img width="320" height="170" src="https://github.com/user-attachments/assets/ca677ce2-72b2-410c-b5f6-8ffae3b1e84d">
 
 </td>
