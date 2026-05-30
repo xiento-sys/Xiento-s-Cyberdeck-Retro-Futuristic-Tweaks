@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/004f9508-d453-42b8-9f87-da520f9c6107
 # Echo-mini-Cyberdeck-Retro-Futuristic
 A custom theme for the snowksy echo mini. A theme i wish that existed but never did so i made my own out of pure spite
 
