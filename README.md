@@ -1,4 +1,4 @@
-Echo Mini Cyberdeck — Retro Futuristic Theme
+# Echo Mini Cyberdeck — Retro Futuristic Theme
 <img width="960" height="510" alt="boot2" src="https://github.com/user-attachments/assets/329c9d09-1d45-498f-a0e3-80841eec6038" />
 
 A custom theme for the SnowSky Echo Mini. A theme I wished existed but couldn’t find anywhere, so I built it myself out of pure spite.
