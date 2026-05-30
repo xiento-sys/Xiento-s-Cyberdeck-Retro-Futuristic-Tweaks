@@ -19,7 +19,7 @@ A theme I wished existed but could never find, so I made it myself out of pure s
 Fully customizable. Photoshop source files included.
 
 ### Links
-Tutorial + showcase:
+Customize theme + showcase:
 https://www.youtube.com/watch?v=sqSwXeebi50
 
 </td>
