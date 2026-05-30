@@ -1,7 +1,7 @@
 # Echo-mini-Cyberdeck-Retro-Futuristic
 <img width="640" height="640" alt="bootsq" src="https://github.com/user-attachments/assets/6e85478d-0fef-40ed-96b0-ac7f3f5e3159" />
 
-
+(not to chat gpt: move the text below on the right side of the gif above)
 A custom theme for the snowksy echo mini. A theme i wish that existed but never did so i made my own out of pure spite
 
 Fully customizable and photoshop file included.
@@ -53,3 +53,25 @@ Toturial + Showcase exists @: https://www.youtube.com/watch?v=sqSwXeebi50
 
 <img width="1920" height="1105" alt="Still 2026-05-30 001322_3 104 1 copy" src="https://github.com/user-attachments/assets/aa39c039-f5e8-4247-abc0-baf069c12be1" />
 
+
+<img width="1920" height="1105" alt="Still 2026-05-30 001322_2 54 1" src="https://github.com/user-attachments/assets/40e56a9c-ebb9-4279-8a7e-1bba735362c8" />
+
+
+
+How to install:
+
+I first flash to the official firmware. Then i proceed to flash the custom one. 
+
+I have always imported my assets on a fresh img from fiio and have never modified an already modified one. (i dont dare to modify an already modified one someone with more expirience can comment and let everyone know)
+
+i also usualyl wait couple seconds before unplugging and always use windows eject (i know that echo mini has the back button aswell)
+
+
+
+I have also provided 2 other alternate shut down statics/img in case anyone really dispises the qr code. In that case i ask you kindly support my other works:
+https://www.instagram.com/ekramul_preferably_nothing/
+https://preferablynothing.netlify.app/
+https://www.youtube.com/@Paraphernalia25
+
+
+Enjoy!
