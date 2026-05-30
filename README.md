@@ -47,7 +47,7 @@ Toturial + Showcase exists @: https://www.youtube.com/watch?v=sqSwXeebi50
 <img width="320" height="170" alt="gif6" src="https://github.com/user-attachments/assets/ca677ce2-72b2-410c-b5f6-8ffae3b1e84d" />
 
 
-<img width="160" height="85" alt="UPDATAEN_(0,0)" src="https://github.com/user-attachments/assets/3c031e74-b8d2-4576-a113-4bd1e5e91740" />
+<img width="320" height="170" alt="UPDATAEN_(0,0)" src="https://github.com/user-attachments/assets/3c031e74-b8d2-4576-a113-4bd1e5e91740" />
 
 
 <img width="1920" height="1105" alt="Still 2026-05-30 001322_3 104 1 copy" src="https://github.com/user-attachments/assets/aa39c039-f5e8-4247-abc0-baf069c12be1" />
