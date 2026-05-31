@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=sqSwXeebi50
 
 ---
 
-## SYSTEM PREVIEW
+## Boot Animation
 
 <img width="960" height="510" src="https://github.com/user-attachments/assets/329c9d09-1d45-498f-a0e3-80841eec6038">
 
