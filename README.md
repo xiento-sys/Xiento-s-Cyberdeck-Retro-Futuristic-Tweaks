@@ -1,4 +1,4 @@
-# Echo Mini Cyberdeck — Retro Futuristic
+# Xiento's Echo Mini Cyberdeck — Retro Futuristic Tweaks
 
 <table>
 <tr>
@@ -12,147 +12,124 @@
 
 ## Overview
 
-A custom theme for the SnowSky Echo Mini.
+My personal tweals for SnowSky Echo Mini custom theme made by chocolate-b4r.
 
-A theme I wished existed but could never find, so I made it myself out of pure spite.
+A theme I wished existed but could never find, so he made it himself out of pure spite. And I'm all here for it.
 
-Fully customizable. Photoshop source files included.
+Fully customizable. As shown by the fact that I made personal tweaks.
 
 ### Links
-Customize theme + showcase:
+Customize Theme + Showcase here:
 https://www.youtube.com/watch?v=sqSwXeebi50
 
-</td>
-</tr>
-</table>
-
----
-
-## Boot Animation
-
-<img width="960" height="510" src="https://github.com/user-attachments/assets/329c9d09-1d45-498f-a0e3-80841eec6038">
-
----
-
-## UI MODULES
-
-<table>
-
-<tr>
-<td>
-
-### Main Menu
-<img width="320" height="170" src="https://github.com/user-attachments/assets/a25865bb-4001-4bc0-8672-2aeeefcfc743">
-
-</td>
-<td>
-
-### Player (Non-cover Art)
-<img width="320" height="170" src="https://github.com/user-attachments/assets/88863071-851f-43f5-84cb-fe29f98e09c8">
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### Volume Control
-<img width="320" height="170" src="https://github.com/user-attachments/assets/cf187bc5-45f8-4fab-8e80-af9ab07467a5">
-
-</td>
-<td>
-
-### Charging (Powered Off)
-<img width="320" height="170" src="https://github.com/user-attachments/assets/4ba24b83-517b-41a9-8813-ff6f543932fb">
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### USB Select
-<img width="320" height="170" src="https://github.com/user-attachments/assets/55c4e790-003b-462a-b6e4-9a05ea1a6008">
-
-</td>
-<td>
-
-### File Transfer
-<img width="320" height="170" src="https://github.com/user-attachments/assets/75dca2ca-df9e-46d0-a6ab-9bc3bbd2de5d">
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### Play / Pause (DAC Mode)
-<img width="320" height="170" src="https://github.com/user-attachments/assets/6ec34d56-4137-4b07-83a3-5913b1197591">
-
-</td>
-<td>
-
-### Browser Background
-<img width="320" height="170" src="https://github.com/user-attachments/assets/8cea5a35-aecf-4f53-8f4e-37f641e131b9">
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### Discharge (In-use) / Charge (just Green)
-<img width="320" height="170" src="https://github.com/user-attachments/assets/ca677ce2-72b2-410c-b5f6-8ffae3b1e84d">
-
-</td>
-<td>
-
-### Firmware Update
-<img width="320" height="170" src="https://github.com/user-attachments/assets/3c031e74-b8d2-4576-a113-4bd1e5e91740">
-
-</td>
-</tr>
-
-</table>
-
----
-
-## SYSTEM LAYER
-
-### BIOS Overlay State
-<img width="1920" height="1105" src="https://github.com/user-attachments/assets/7021a503-e9a9-4225-bf92-0ad2b42026a9">
-
-Base UI layer only. All assets above represent underlying screens.
-
----
-
-### Custom Icons
-<img width="1920" height="1105" src="https://github.com/user-attachments/assets/40e56a9c-ebb9-4279-8a7e-1bba735362c8">
-
----
-
-## INSTALLATION
-
-Flash official firmware first, then install custom firmware/theme.
-
-Use a clean Fiio image. Do not modify already modified builds unless you understand the structure.
-
-Wait a few seconds after writing files and always safely eject before unplugging.
-
----
-
-## NOTES
-
-Two alternate shutdown static images are included for users who prefer no QR screen.
-
----
-
-## SUPPORT
+### Support chocolate-b4r here!
 
 - Instagram: https://www.instagram.com/ekramul_preferably_nothing/
 - Portfolio: https://preferablynothing.netlify.app/
 - YouTube: https://www.youtube.com/@Paraphernalia25
 
-Enjoy.
+</td>
+</tr>
+</table>
+
+---
+
+## chocolate-b4r's Echo Mini Cyberdeck — Retro Futuristic
+
+This repository is a fork of the original project which contains the entire base assets including my personal tweaks. The complete breakdown of this theme here: https://github.com/chocolate-b4r/Echo-mini-Cyberdeck-Retro-Futuristic. Do check it out first. If the original author ever requests the removal of the base assets, I will take them down immediately and retain only my custom tweaks and modifications in here, separately.
+
+---
+
+### Reworked Quality Icons + Customizable Quality Icons
+
+Reworked the DSD, SQ, and HR Quality Icons to fit with the custom theme.
+
+Listening to music in MP3, AAC, OGG? ~~like me~~ Don't worry, you won't miss out on Quality Icons!
+
+After following the attached instructions, the chosen icon (_can only choose one between MP3, AAC, OGG, and even the higher quality indicators_) will take effect when you use audio files that are <ins>less than</ins> 16/44.1 FLAC in quality.
+
+<img width="600" src="https://github.com/user-attachments/assets/586c0610-24cf-44fd-83e1-8abcabdd86b1">
+
+---
+
+### Reworked Equalizer Indicators
+
+Reworked all of the Equalizer Indicators to fit with the custom theme.
+
+<img width="600" src="https://github.com/user-attachments/assets/564c5b6b-e26f-403f-a5be-fa8b55221451">
+
+---
+
+### Reworked Battery Indicators
+
+Reworked the Battery Indicators for better visual clarity.
+
+<img width="600" src="https://github.com/user-attachments/assets/9c3a7a51-554a-408f-a294-73f296f42496">
+
+---
+
+### Stylized Button Switch and Volume Switch images
+
+Changed the default Button Switch and Volume Switch images to fit the custom theme.
+
+<img width="500" height="250" src="https://github.com/user-attachments/assets/fa1ebe2e-45f8-412d-955f-0cdae9695a03">
+<img width="500" height="250" src="https://github.com/user-attachments/assets/d7dcfc55-eea5-466f-813c-57cf23e319c2">
+
+---
+
+### Stylized Message Boxes and Channel Balance Setting
+
+Added borders around them and a darker background to fit the custom theme.
+
+<img width="475" height="250" src="https://github.com/user-attachments/assets/40f21f00-2035-4edc-881f-1af914c4b01e">
+
+<img width="375" height="250" src="https://github.com/user-attachments/assets/8b4c6a26-d056-4a39-ace5-40ae3054c7ee">
+
+
+---
+
+### Stylized Equalizer
+
+Gave the equalizer a simplified look. And yes, to fit the custom theme.
+
+<img width="500" height="250" src="https://github.com/user-attachments/assets/a979cb73-7112-4b3e-b543-3c7b7c0ceb53">
+<img width="350" height="250" src="https://github.com/user-attachments/assets/b85e9bab-cdee-4920-8b14-daa67c6b9cd9">
+
+---
+
+### Stylized Time and Date Settings and Custom Clock
+
+Saving the best for last — my favorite tweak: the custom digital clock design. Tried to replicate the classic red LED digital alarm clock, and it came out pretty well.
+
+<img width="350" height="250" src="https://github.com/user-attachments/assets/5a7b3a21-693f-4805-8431-ca4c158e4c99">
+<img width="350" height="250" src="https://github.com/user-attachments/assets/72c97cab-737e-48e7-8d34-2d681cab009e">
+
+---
+
+### Installation
+
+Flash the official firmware first, then install custom firmware/theme.
+
+Use a clean echo mini firmware from here: https://forum.fiio.com/note/showNoteContent.do?id=202501210934383987154. Do not modify already modified builds unless you understand the structure.
+
+Wait a few seconds after writing files and always safely eject before unplugging.
+
+---
+
+### Final Remarks
+
+There are some clarity fixes that were not listed here, as they were pretty small — _literally_. Anyways, I'm trying to work on some final tweaks to see if I can style these numbers in a similar way to the custom theme:
+
+<img width="2576" height="1488" src="https://github.com/user-attachments/assets/d451599e-5e44-4ddf-b534-7f9b60de28f7">
+
+I do have a hunch of what to change, but I have yet to do so. You can also clearly see the MP3 Quality Icon there, as well as the reworked Bass Equalizer Icon. 
+
+- yes, I do listen to 320kpbs mp3
+- yes, I have done an A/B/C test from NPR and I **can't** tell shit ~~though, I can hear actual shit that is 128kpbs mp3~~
+- no, I did not convert all my FLAC to MP3. I keep everything in FLAC for archiving and convert it to MP3 for DAP use. (_making the switch actually doubled my echo mini's battery life_)
+
+I'll try taking better pictures next time.
+
+---
 
 This work is licensed under Creative Commons Attribution 4.0 International CC BY-NC 4.0 (Non-Commercial).
