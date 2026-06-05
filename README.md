@@ -118,15 +118,14 @@ Wait a few seconds after writing files and always safely eject before unplugging
 
 ### Final Remarks
 
-There are some clarity fixes that were not listed here, as they were pretty small — _literally_. Anyways, I'm trying to work on some final tweaks to see if I can style these numbers in a similar way to the custom theme:
+There are some clarity fixes that were not listed here, as they were pretty small — _literally_. 
 
-<img width="2576" height="1488" src="https://github.com/user-attachments/assets/d451599e-5e44-4ddf-b534-7f9b60de28f7">
-
-I do have a hunch of what to change, but I have yet to do so. You can also clearly see the MP3 Quality Icon there, as well as the reworked Bass Equalizer Icon. 
+So far, I am very much satisifed with my tweaks already. There likely won't be any further updates to this repo since I have made my own theme that is loosely inspired from chocolate-b4r's theme. The bitmaps should be compatible with any future version. If there is a new element added in a future update, I will make a stylized version of it, and yes, again, to fit the custom theme.
 
 - yes, I do listen to 320kpbs mp3
 - yes, I have done an A/B/C test from NPR and I **can't** tell shit ~~though, I can hear actual shit that is 128kpbs mp3~~
 - no, I did not convert all my FLAC to MP3. I keep everything in FLAC for archiving and convert it to MP3 for DAP use. (_making the switch actually doubled my echo mini's battery life_)
+- check out my nmixx heavy serenade inspired theme!
 
 I'll try taking better pictures next time.
 
