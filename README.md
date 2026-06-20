@@ -121,9 +121,7 @@ So far, I am very much satisifed with my tweaks already. There likely won't be a
 - yes, I do listen to 320kpbs mp3
 - yes, I have done an A/B/C test from NPR and I **can't** tell shit ~~though, I can hear actual shit that is 128kpbs mp3~~
 - no, I did not convert all my FLAC to MP3. I keep everything in FLAC for archiving and convert it to MP3 for DAP use. (_making the switch actually doubled my echo mini's battery life_)
-- check out my nmixx heavy serenade inspired theme! https://github.com/xiento-sys/Xiento-s-Heavy-Serenade-Theme
-
-I'll try taking better pictures next time.
+- once again, check out my nmixx heavy serenade inspired theme! https://github.com/xiento-sys/Xiento-s-Heavy-Serenade-Theme
 
 ---
 
