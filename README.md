@@ -38,9 +38,11 @@ https://www.youtube.com/watch?v=sqSwXeebi50
 
 This repository is a fork of the original project which contains the entire base assets including my personal tweaks. The complete breakdown of this theme here: https://github.com/chocolate-b4r/Echo-mini-Cyberdeck-Retro-Futuristic. Do check it out first. If the original author ever requests the removal of the base assets, I will take them down immediately and retain only my custom tweaks and modifications in here, separately.
 
+#### Heavy Serenade Theme
+
 Using the initial personalization and clarity tweaks built into this fork, I also created a standalone, fully customized 2-in-1 theme pack inspired by NMIXX's *Heavy Serenade* aesthetic (with Light and Dark modes). You can check out and download that theme pack here: https://github.com/xiento-sys/Xiento-s-Heavy-Serenade-Theme. 
 
-Note that while this repository originally started with just a few minor layout tweaks, I have since made further optimizations and fixes from the *Heavy Serenade* pack which I imported directly into this one. At this point, both versions offer the exact same bitmaps except for the Boot Animation, Recorder Style (animation with Music Art disabled), Music Player (with Music Art enabled but no embedded album art), USB Transfer/DAC Mode, and Shutdown Screen.
+Note that while this repository originally started with just a few minor layout tweaks, I have since made further optimizations and fixes with the *Heavy Serenade* pack which I directly imported into this one. At this point, both versions offer the exact same bitmaps except for the Boot Animation, Recorder Style (animation with Music Art disabled), Music Player (with Music Art enabled but no embedded album art), USB Transfer/DAC Mode, and Shutdown Screen.
 
 ---
 
@@ -50,7 +52,7 @@ Reworked the DSD, SQ, and HR Quality Icons to fit with the custom theme.
 
 Listening to music in MP3, AAC, OGG? ~~like me~~ Don't worry, you won't miss out on Quality Icons!
 
-After following the attached instructions, the chosen icon (_can only choose one between MP3, AAC, OGG, and even the higher quality indicators_) will take effect when you use audio files that are <ins>less than</ins> 16/44.1 FLAC in quality.
+After following the attached instructions, the chosen icon (_you can only choose one between MP3, AAC, OGG, and even the higher quality indicators_) will take effect when you use audio files that are <ins>less than</ins> 16/44.1 FLAC in quality.
 
 <img width="600" src="https://github.com/user-attachments/assets/0835a2e2-8ab8-48a5-a7c5-c02a1059bc6f">
 
@@ -83,7 +85,7 @@ Reworked the Battery Indicators for better visual clarity.
 
 ### Stylized Equalizer
 
-Gave the equalizer a simplified look. And yes, to fit the custom theme.
+Gave the equalizer a simplified look.
 
 <img width="600" src="https://github.com/user-attachments/assets/63b151b5-6606-45fa-9456-19e522cfb3e8">
 
@@ -100,7 +102,7 @@ Saving the best for last — my favorite tweak: the custom digital clock design.
 
 ### Clarity Fixes
 
-There are some clarity fixes that were not listed here, as they were pretty small — _literally_. In fact, there's a LOT of them: 337, to be exact (excluding the 40 bitmaps taken up by the boot animaton). I've made sure that every bitmap has been reworked and there are absolutely zero blurry elements in this theme. This should be the answer for anyone who was left unsatisfied with the blurry elements in the base theme.
+There are centering and clarity fixes that were not listed here, as they were pretty small — _literally_. In fact, there's a LOT of bitmaps involved with this theme: 337, to be exact (excluding the 40 bitmaps taken up by the boot animaton). I've made sure that every bitmap has been reworked and there are absolutely zero blurry elements in this theme. This should be the answer for anyone who was left unsatisfied with the blurry elements in the base theme.
 
 --- 
 
@@ -116,7 +118,7 @@ Wait a few seconds after writing files and always safely eject before unplugging
 
 ### Final Remarks
 
-So far, I am very much satisifed with my tweaks already. There likely won't be any further updates to this repo since I have made my own theme that is loosely inspired from chocolate-b4r's theme. The bitmaps should be compatible with any future version. If there is a new element added in a future update, I will make a stylized version of it, and yes, again, to fit the custom theme.
+So far, I am very much satisifed with my tweaks already. There likely won't be any further updates to this repo since I have made my own theme that is built upon my initial tweaks here, refined to my liking, then imported back here. The bitmaps should be compatible with any future version. If there is a new element added in a future update, I will make a stylized version of it, and yes, again, to fit the custom theme.
 
 - yes, I do listen to 320kpbs mp3
 - yes, I have done an A/B/C test from NPR and I **can't** tell shit ~~though, I can hear actual shit that is 128kpbs mp3~~
