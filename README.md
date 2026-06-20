@@ -45,6 +45,12 @@ Using the initial personalization and clarity tweaks built into this fork, I als
 Note that while this repository originally started with just a few minor layout tweaks, I have since made further optimizations and fixes with the *Heavy Serenade* pack which I directly imported into this one. At this point, both versions offer the exact same bitmaps except for the Boot Animation, Recorder Style (animation with Music Art disabled), Music Player (with Music Art enabled but no embedded album art), USB Transfer/DAC Mode, and Shutdown Screen.
 
 ---
+### Reworked Recorder Style
+Reworked the already satisfying Recorder Style to be even more satisfying!
+
+<img width="640" src="https://github.com/user-attachments/assets/31475e0c-328b-47b6-824e-9a3f972542a2">
+
+---
 
 ### Reworked Quality Icons + Customizable Quality Icons
 
@@ -70,7 +76,10 @@ Reworked all of the Equalizer Indicators to fit with the custom theme.
 
 Reworked the Battery Indicators for better visual clarity. You can choose between Bars (Legacy) and Modern.
 
+##### Legacy (Bars)
 <img width="220" src="https://github.com/user-attachments/assets/5beb2809-16ac-4b79-a35d-d31c8cbbc9c6">
+
+##### Modern
 <img width="220" src="https://github.com/user-attachments/assets/a0af023b-fa51-419b-aa97-fbc393521acf">
 
 ---
@@ -85,7 +94,7 @@ Reworked the Battery Indicators for better visual clarity.
 
 ### Stylized Equalizer
 
-Gave the equalizer a simplified look.
+Gave the equalizer a simplified look, fitting to theme.
 
 <img width="600" src="https://github.com/user-attachments/assets/63b151b5-6606-45fa-9456-19e522cfb3e8">
 
