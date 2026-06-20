@@ -38,6 +38,10 @@ https://www.youtube.com/watch?v=sqSwXeebi50
 
 This repository is a fork of the original project which contains the entire base assets including my personal tweaks. The complete breakdown of this theme here: https://github.com/chocolate-b4r/Echo-mini-Cyberdeck-Retro-Futuristic. Do check it out first. If the original author ever requests the removal of the base assets, I will take them down immediately and retain only my custom tweaks and modifications in here, separately.
 
+Using the initial personalization and clarity tweaks built into this fork, I also created a standalone, fully customized 2-in-1 theme pack inspired by NMIXX's *Heavy Serenade* aesthetic (with Light and Dark modes). You can check out and download that theme pack here: https://github.com/xiento-sys/Xiento-s-Heavy-Serenade-Theme. 
+
+Note that while this repository originally started with just a few minor layout tweaks, I have since made further optimizations and fixes from the *Heavy Serenade* pack which I imported directly into this one. At this point, both versions offer the exact same bitmaps except for the Boot Animation, Recorder Style (animation with Music Art disabled), Music Player (with Music Art enabled but no embedded album art), USB Transfer/DAC Mode, and Shutdown Screen.
+
 ---
 
 ### Reworked Quality Icons + Customizable Quality Icons
@@ -48,7 +52,7 @@ Listening to music in MP3, AAC, OGG? ~~like me~~ Don't worry, you won't miss out
 
 After following the attached instructions, the chosen icon (_can only choose one between MP3, AAC, OGG, and even the higher quality indicators_) will take effect when you use audio files that are <ins>less than</ins> 16/44.1 FLAC in quality.
 
-<img width="600" src="https://github.com/user-attachments/assets/586c0610-24cf-44fd-83e1-8abcabdd86b1">
+<img width="600" src="https://github.com/user-attachments/assets/0835a2e2-8ab8-48a5-a7c5-c02a1059bc6f">
 
 ---
 
@@ -56,35 +60,24 @@ After following the attached instructions, the chosen icon (_can only choose one
 
 Reworked all of the Equalizer Indicators to fit with the custom theme.
 
-<img width="600" src="https://github.com/user-attachments/assets/564c5b6b-e26f-403f-a5be-fa8b55221451">
+<img width="860" height="70" alt="EQUALIZERICONS" src="https://github.com/user-attachments/assets/bb8e58c4-245a-41e9-b7e6-fac83f887a86" />
 
 ---
 
 ### Reworked Battery Indicators
 
+Reworked the Battery Indicators for better visual clarity. You can choose between Bars (Legacy) and Modern.
+
+<img width="220" src="https://github.com/user-attachments/assets/5beb2809-16ac-4b79-a35d-d31c8cbbc9c6">
+<img width="220" src="https://github.com/user-attachments/assets/a0af023b-fa51-419b-aa97-fbc393521acf">
+
+---
+
+### Reworked Sort Icons
+
 Reworked the Battery Indicators for better visual clarity.
 
-<img width="600" src="https://github.com/user-attachments/assets/9c3a7a51-554a-408f-a294-73f296f42496">
-
----
-
-### Stylized Button Switch and Volume Switch images
-
-Changed the default Button Switch and Volume Switch images to fit the custom theme.
-
-<img width="500" height="250" src="https://github.com/user-attachments/assets/fa1ebe2e-45f8-412d-955f-0cdae9695a03">
-<img width="500" height="250" src="https://github.com/user-attachments/assets/d7dcfc55-eea5-466f-813c-57cf23e319c2">
-
----
-
-### Stylized Message Boxes and Channel Balance Setting
-
-Added borders around them and a darker background to fit the custom theme.
-
-<img width="475" height="250" src="https://github.com/user-attachments/assets/40f21f00-2035-4edc-881f-1af914c4b01e">
-
-<img width="375" height="250" src="https://github.com/user-attachments/assets/8b4c6a26-d056-4a39-ace5-40ae3054c7ee">
-
+<img width="340" src="https://github.com/user-attachments/assets/2666c1ae-e268-4b7b-bb4a-3c0acd5f60d2">
 
 ---
 
@@ -92,19 +85,24 @@ Added borders around them and a darker background to fit the custom theme.
 
 Gave the equalizer a simplified look. And yes, to fit the custom theme.
 
-<img width="500" height="250" src="https://github.com/user-attachments/assets/a979cb73-7112-4b3e-b543-3c7b7c0ceb53">
-<img width="350" height="250" src="https://github.com/user-attachments/assets/b85e9bab-cdee-4920-8b14-daa67c6b9cd9">
+<img width="600" src="https://github.com/user-attachments/assets/63b151b5-6606-45fa-9456-19e522cfb3e8">
 
 ---
 
-### Stylized Time and Date Settings and Custom Clock
+### Stylized Clock Display
 
 Saving the best for last — my favorite tweak: the custom digital clock design. Tried to replicate the classic red LED digital alarm clock, and it came out pretty well.
 
-<img width="350" height="250" src="https://github.com/user-attachments/assets/5a7b3a21-693f-4805-8431-ca4c158e4c99">
-<img width="350" height="250" src="https://github.com/user-attachments/assets/72c97cab-737e-48e7-8d34-2d681cab009e">
+<img width="600" src="https://github.com/user-attachments/assets/93427eff-a588-47a1-a378-4839f05c2894">
+
 
 ---
+
+### Clarity Fixes
+
+There are some clarity fixes that were not listed here, as they were pretty small — _literally_. In fact, there's a LOT of them: 337, to be exact (excluding the 40 bitmaps taken up by the boot animaton). I've made sure that every bitmap has been reworked and there are absolutely zero blurry elements in this theme. This should be the answer for anyone who was left unsatisfied with the blurry elements in the base theme.
+
+--- 
 
 ### Installation
 
@@ -118,14 +116,12 @@ Wait a few seconds after writing files and always safely eject before unplugging
 
 ### Final Remarks
 
-There are some clarity fixes that were not listed here, as they were pretty small — _literally_. 
-
 So far, I am very much satisifed with my tweaks already. There likely won't be any further updates to this repo since I have made my own theme that is loosely inspired from chocolate-b4r's theme. The bitmaps should be compatible with any future version. If there is a new element added in a future update, I will make a stylized version of it, and yes, again, to fit the custom theme.
 
 - yes, I do listen to 320kpbs mp3
 - yes, I have done an A/B/C test from NPR and I **can't** tell shit ~~though, I can hear actual shit that is 128kpbs mp3~~
 - no, I did not convert all my FLAC to MP3. I keep everything in FLAC for archiving and convert it to MP3 for DAP use. (_making the switch actually doubled my echo mini's battery life_)
-- check out my nmixx heavy serenade inspired theme!
+- check out my nmixx heavy serenade inspired theme! https://github.com/xiento-sys/Xiento-s-Heavy-Serenade-Theme
 
 I'll try taking better pictures next time.
 
