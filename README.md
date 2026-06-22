@@ -77,18 +77,20 @@ Reworked all of the Equalizer Indicators to fit with the custom theme.
 Reworked the Battery Indicators for better visual clarity. You can choose between Bars (Legacy) and Modern.
 
 ##### Legacy (Bars)
-<img width="220" src="https://github.com/user-attachments/assets/5beb2809-16ac-4b79-a35d-d31c8cbbc9c6">
+<img width="220" height="70" src="https://github.com/user-attachments/assets/d51133b3-ce6a-4f2d-9aca-0b7519634d7e">
 
 ##### Modern
-<img width="220" src="https://github.com/user-attachments/assets/a0af023b-fa51-419b-aa97-fbc393521acf">
+<img width="220" height="70" src="https://github.com/user-attachments/assets/9ec6fb2b-b97c-4193-a924-9449caaf6195">
 
 ---
 
 ### Reworked Sort Icons
 
-Reworked the Battery Indicators for better visual clarity.
+Reworked the Shuffle-Sort icons for better visual clarity.
 
 <img width="340" src="https://github.com/user-attachments/assets/2666c1ae-e268-4b7b-bb4a-3c0acd5f60d2">
+
+From Left to Right: Shuffle All, Repeat Once, Sequential Play, Shuffle All
 
 ---
 
